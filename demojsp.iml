@@ -95,14 +95,12 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.0.7.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:5.0.7.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.xmlunit:xmlunit-core:2.5.1" level="project" />
-    <orderEntry type="library" name="Maven: io.netty:netty-handler:4.1.25.Final" level="project" />
-    <orderEntry type="library" name="Maven: io.netty:netty-codec:4.1.25.Final" level="project" />
-    <orderEntry type="library" name="Maven: io.netty:netty-common:4.1.25.Final" level="project" />
-    <orderEntry type="library" name="Maven: io.netty:netty-all:4.1.25.Final" level="project" />
-    <orderEntry type="library" name="Maven: io.netty:netty-buffer:4.1.25.Final" level="project" />
-    <orderEntry type="library" name="Maven: io.netty:netty-transport:4.1.25.Final" level="project" />
-    <orderEntry type="library" name="Maven: io.netty:netty-resolver:4.1.25.Final" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.39" level="project" />
-    <orderEntry type="library" name="Maven: org.bidib.jbidib.org.qbang.rxtx:rxtxcomm:2.2" level="project" />
+    <orderEntry type="library" name="Maven: net.sf.json-lib:json-lib:2.4" level="project" />
+    <orderEntry type="library" name="Maven: commons-beanutils:commons-beanutils:1.8.0" level="project" />
+    <orderEntry type="library" name="Maven: commons-collections:commons-collections:3.2.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.5" level="project" />
+    <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: net.sf.ezmorph:ezmorph:1.0.6" level="project" />
+    <orderEntry type="library" name="Maven: net.sf.flexjson:flexjson:2.1" level="project" />
   </component>
 </module>
